@@ -58,11 +58,11 @@
 
 <h3 align="center">My GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitigolprod&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whitigol&show_icons=true&theme=dark"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitigolprod&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitigol&layout=compact&theme=dark"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WhitigolProd&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
+  <img src="https://streak-stats.demolab.com?user=whitigol&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </div>
